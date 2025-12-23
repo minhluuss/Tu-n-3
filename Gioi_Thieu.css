@@ -1,0 +1,74 @@
+/* --- CẤU HÌNH CHUNG CHO BANNER --- */
+.hero-banner {
+    /* Đặt chiều cao cố định cho banner, ví dụ 500px hoặc 600px tùy thiết kế */
+    height: 600px;
+    background-color: #fff; /* Màu nền dự phòng */
+}
+
+/* --- CỘT TRÁI (Phần chữ) --- */
+.left-content {
+    /* Màu nền xanh/tím nhạt giống trong ảnh mẫu */
+    background-color: #DCE3F2; 
+    /* Đảm bảo nó nằm dưới cái dây xanh */
+    z-index: 1; 
+}
+
+.banner-title {
+    font-size: 2.8rem; /* Kích thước chữ lớn */
+    line-height: 1.3;
+}
+/* Màu chữ nhấn mạnh (Sức khỏe học đường) */
+.text-primary-dark {
+    color: #1e2f5a; /* Màu xanh đậm */
+}
+
+/* --- CỘT PHẢI (Ảnh nền học sinh) --- */
+.right-image-container {
+    /* THAY ẢNH HỌC SINH CỦA BẠN Ở ĐÂY */
+    background-image: url('images/anhgioithieu.png');
+    
+    /* Kỹ thuật để ảnh phủ kín khung mà không bị méo */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* Đảm bảo nó nằm dưới cái dây xanh */
+    z-index: 1;
+}
+
+/* --- ẢNH DÂY XANH NGĂN CÁCH (Phần khó nhất) --- */
+.wave-separator-img {
+    background-image: url('images/2.png');
+    /* Định vị tuyệt đối so với khung .hero-banner cha */
+    position: absolute;
+    
+    /* Kéo giãn chiều cao bằng đúng banner */
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    
+    /* CĂN CHỈNH VỊ TRÍ NGANG: */
+    /* Vì ta chia cột 5/7, nên giao điểm nằm ở khoảng 41.6% (5 chia 12) */
+    left: 41.666667%; 
+    /* Dịch chuyển ảnh sang trái 50% độ rộng của chính nó để tâm ảnh nằm đúng giao điểm */
+    transform: translateX(-50%);
+    
+    /* Quan trọng: Đặt z-index cao hơn để nó nằm đè lên trên 2 cột kia */
+    z-index: 10;
+    
+    /* Tùy chỉnh độ rộng của dây nếu cần (ví dụ ảnh của bạn quá to hoặc quá bé) */
+    /* width: auto; */ 
+}
+
+/* --- RESPONSIVE TRÊN MOBILE (Tùy chọn) --- */
+/* Khi màn hình nhỏ lại, giao diện sẽ chồng lên nhau, ta cần ẩn cái dây đi cho đỡ rối */
+@media (max-width: 768px) {
+    .hero-banner {
+        height: auto; /* Chiều cao tự động */
+    }
+    .wave-separator-img {
+        display: none; /* Ẩn dây trên mobile */
+    }
+    .right-image-container {
+        height: 300px; /* Đặt chiều cao cố định cho ảnh trên mobile */
+    }
+}
