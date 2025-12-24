@@ -1,74 +1,203 @@
-/* --- CẤU HÌNH CHUNG CHO BANNER --- */
-.hero-banner {
-    /* Đặt chiều cao cố định cho banner, ví dụ 500px hoặc 600px tùy thiết kế */
-    height: 600px;
-    background-color: #fff; /* Màu nền dự phòng */
+#khoangtrang {
+    background-color: #fff;
+    height: 50px; /* Chiều cao khoảng trắng */
+}
+/* --- CẤU TRÚC CHUNG --- */
+.banner-gioi-thieu {
+    position: relative;
+    background-color: #CDDFF1; /* Màu nền xanh nhạt bên trái */
+    height: 360px; /* Chiều cao cố định trên máy tính */
+    overflow: hidden;
 }
 
-/* --- CỘT TRÁI (Phần chữ) --- */
-.left-content {
-    /* Màu nền xanh/tím nhạt giống trong ảnh mẫu */
-    background-color: #DCE3F2; 
-    /* Đảm bảo nó nằm dưới cái dây xanh */
-    z-index: 1; 
+.lop-noi-len {
+    z-index: 2; /* Đảm bảo chữ nổi lên trên cùng */
 }
 
-.banner-title {
-    font-size: 2.8rem; /* Kích thước chữ lớn */
+/* Phần chữ */
+.noi-dung-chu {
+    color: #272742;
+    font-size: 2.8rem;
+    font-weight: 700;
     line-height: 1.3;
 }
-/* Màu chữ nhấn mạnh (Sức khỏe học đường) */
-.text-primary-dark {
-    color: #1e2f5a; /* Màu xanh đậm */
+
+
+/* --- KHỐI BÊN PHẢI (CHỨA CẢ ẢNH VÀ DÂY) --- */
+/* Đây là khối cha dùng để nhóm 2 ảnh lại */
+.khoi-anh-ben-phai {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 55%; /* Khối này luôn chiếm 55% màn hình từ phải sang */
+    z-index: 0;
 }
 
-/* --- CỘT PHẢI (Ảnh nền học sinh) --- */
-.right-image-container {
-    /* THAY ẢNH HỌC SINH CỦA BẠN Ở ĐÂY */
-    background-image: url('images/anhgioithieu.png');
+/* --- TỔNG THỂ BANNER --- */
+.banner-gioi-thieu {
+    position: relative;
+    background-color: #CDDFF1; /* Màu nền xanh nhạt của phần bên trái */
+    height: 360px; /* Tăng chiều cao một chút cho thoáng giống web mẫu */
+    overflow: hidden;
+}
+
+.lop-tren-cung {
+    z-index: 10; /* Đưa chữ lên cao nhất */
+}
+
+.noi-dung-chu {
+    color: #272742;
+    font-size: 3rem; /* Chữ to đậm giống mẫu */
+    font-weight: 800;
+    line-height: 1.2;
+    padding-bottom: 170px; /* Đẩy chữ lên cao hơn một chút */
+}
+
+/* --- KHỐI BÊN PHẢI (CHỨA DÂY + ẢNH) --- */
+.phan-ben-phai {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 50%; /* Ảnh chiếm đúng 50% màn hình bên phải */
+    z-index: 1;
+    display: flex; /* Giúp căn chỉnh dây và ảnh dễ hơn */
+}
+
+/* 1. ĐỊNH VỊ CÁI DÂY (QUAN TRỌNG NHẤT) */
+.day-trang-tri {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0; 
+    /* Đặt dây ở mép trái của khối ảnh */
     
-    /* Kỹ thuật để ảnh phủ kín khung mà không bị méo */
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    /* Đảm bảo nó nằm dưới cái dây xanh */
+    /* Lệnh thần thánh: Dịch dây sang trái 99% chiều rộng của chính nó.
+       Tại sao 99% mà không phải 100%? Để nó đè nhẹ lên ảnh 1 xíu, che kín mọi khe hở khi zoom. */
+    transform: translateX(-30%); 
+    
+    height: 100%;
+    z-index: 2; /* Nằm đè lên trên ảnh */
+    pointer-events: none; /* Chuột bấm xuyên qua */
+}
+
+.day-trang-tri img {
+    height: 100%;       /* Cao bằng banner */
+    width: auto;        /* Rộng tự nhiên (giữ tỉ lệ) */
+    max-width: none;    /* Không cho phép bị bóp méo */
+    display: block;
+}
+
+/* 2. ĐỊNH VỊ BỨC ẢNH */
+.anh-nen {
+    width: 100%;
+    height: 100%;
+    position: relative;
     z-index: 1;
 }
 
-/* --- ẢNH DÂY XANH NGĂN CÁCH (Phần khó nhất) --- */
-.wave-separator-img {
-    background-image: url('images/2.png');
-    /* Định vị tuyệt đối so với khung .hero-banner cha */
-    position: absolute;
-    
-    /* Kéo giãn chiều cao bằng đúng banner */
-    top: 0;
-    bottom: 0;
+.anh-nen img {
+    width: 100%;
     height: 100%;
-    
-    /* CĂN CHỈNH VỊ TRÍ NGANG: */
-    /* Vì ta chia cột 5/7, nên giao điểm nằm ở khoảng 41.6% (5 chia 12) */
-    left: 41.666667%; 
-    /* Dịch chuyển ảnh sang trái 50% độ rộng của chính nó để tâm ảnh nằm đúng giao điểm */
-    transform: translateX(-50%);
-    
-    /* Quan trọng: Đặt z-index cao hơn để nó nằm đè lên trên 2 cột kia */
-    z-index: 10;
-    
-    /* Tùy chỉnh độ rộng của dây nếu cần (ví dụ ảnh của bạn quá to hoặc quá bé) */
-    /* width: auto; */ 
+    object-fit: cover; /* Lấp đầy khung */
+    object-position: center left; /* Lấy trọng tâm ảnh lệch trái */
+    display: block;
 }
 
-/* --- RESPONSIVE TRÊN MOBILE (Tùy chọn) --- */
-/* Khi màn hình nhỏ lại, giao diện sẽ chồng lên nhau, ta cần ẩn cái dây đi cho đỡ rối */
-@media (max-width: 768px) {
-    .hero-banner {
-        height: auto; /* Chiều cao tự động */
+/* --- RESPONSIVE: MÀN HÌNH ĐIỆN THOẠI/TABLET --- */
+@media (max-width: 991px) {
+    .banner-gioi-thieu {
+        height: auto;
+        display: flex;
+        flex-direction: column-reverse; /* Đảo: Ảnh lên trên, Chữ xuống dưới */
     }
-    .wave-separator-img {
-        display: none; /* Ẩn dây trên mobile */
+
+    .phan-ben-phai {
+        position: relative;
+        width: 100%; /* Ảnh full màn hình */
+        height: 300px;
+        right: auto;
     }
-    .right-image-container {
-        height: 300px; /* Đặt chiều cao cố định cho ảnh trên mobile */
+
+    /* Trên điện thoại, cái dây thường gây rối mắt hoặc che mất ảnh, 
+       nhưng nếu muốn giữ thì bỏ dòng display:none đi */
+    .day-trang-tri {
+        display: none; 
     }
+
+    .noi-dung-chu {
+        font-size: 2rem;
+        padding: 40px 15px;
+        text-align: center;
+    }
+}
+
+/* Khung bao ngoài dùng Flexbox để dàn hàng ngang */
+.khoi-noi-dung {
+    display: flex;       /* Xếp cục số và danh sách nằm ngang */
+    gap: 20px;          /* Khoảng cách giữa cục số và danh sách */
+    margin-bottom: 30px;
+}
+#quyet-dinh-1660 {
+    color: #272742;
+    font-weight: 800;
+    justify-self: center;
+}
+/* 1. Cục số to (05, 07) */
+.so-lon {
+    flex: 0 0 130px;    /* Chiều rộng cố định 130px, không co giãn */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+    border-radius: 8px; /* Bo góc */
+    color: #fff;        /* Chữ màu trắng */
+    height: fit-content; /* Chiều cao vừa đủ nội dung */
+}
+
+.so-lon h2 {
+    font-size: 3.5rem;  /* Cỡ chữ số to */
+    font-weight: 800;   /* Chữ đậm */
+    margin: 0;
+    line-height: 1;
+}
+
+.so-lon span {
+    font-size: 0.85rem;
+    text-align: center;
+    font-weight: 600;
+}
+
+/* 2. Danh sách các mục bên phải */
+.danh-sach-muc {
+    flex-grow: 1; /* Chiếm hết phần không gian còn lại */
+}
+
+.muc-con {
+    padding: 12px 15px;
+    margin-bottom: 10px; /* Khoảng cách giữa các dòng */
+    border-radius: 5px;
+    font-size: 0.95rem;
+    color: #333;
+    font-weight: 500;
+}
+
+/* --- QUY ĐỊNH MÀU SẮC (THEME) --- */
+
+/* Theme Màu Xanh (Cho phần 05) */
+.mau-xanh .so-lon {
+    background-color: #0099cc; /* Màu nền cục số */
+}
+.mau-xanh .muc-con {
+    background-color: #e6f7ff; /* Màu nền các dòng text (xanh nhạt) */
+}
+
+/* Theme Màu Cam (Cho phần 07) */
+.mau-cam .so-lon {
+    background-color: #ff6600; /* Màu nền cục số */
+}
+.mau-cam .muc-con {
+    background-color: #fff0e6; /* Màu nền các dòng text (cam nhạt) */
 }
