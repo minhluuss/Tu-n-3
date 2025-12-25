@@ -2,7 +2,6 @@
     background-color: #fff;
     height: 50px; /* Chiều cao khoảng trắng */
 }
-/* --- CẤU TRÚC CHUNG --- */
 .banner-gioi-thieu {
     position: relative;
     background-color: #CDDFF1; /* Màu nền xanh nhạt bên trái */
@@ -22,9 +21,6 @@
     line-height: 1.3;
 }
 
-
-/* --- KHỐI BÊN PHẢI (CHỨA CẢ ẢNH VÀ DÂY) --- */
-/* Đây là khối cha dùng để nhóm 2 ảnh lại */
 .khoi-anh-ben-phai {
     position: absolute;
     top: 0;
@@ -34,7 +30,6 @@
     z-index: 0;
 }
 
-/* --- TỔNG THỂ BANNER --- */
 .banner-gioi-thieu {
     position: relative;
     background-color: #CDDFF1; /* Màu nền xanh nhạt của phần bên trái */
@@ -53,8 +48,6 @@
     line-height: 1.2;
     padding-bottom: 170px; /* Đẩy chữ lên cao hơn một chút */
 }
-
-/* --- KHỐI BÊN PHẢI (CHỨA DÂY + ẢNH) --- */
 .phan-ben-phai {
     position: absolute;
     top: 0;
@@ -65,18 +58,12 @@
     display: flex; /* Giúp căn chỉnh dây và ảnh dễ hơn */
 }
 
-/* 1. ĐỊNH VỊ CÁI DÂY (QUAN TRỌNG NHẤT) */
 .day-trang-tri {
     position: absolute;
     top: 0;
     bottom: 0;
     left: 0; 
-    /* Đặt dây ở mép trái của khối ảnh */
-    
-    /* Lệnh thần thánh: Dịch dây sang trái 99% chiều rộng của chính nó.
-       Tại sao 99% mà không phải 100%? Để nó đè nhẹ lên ảnh 1 xíu, che kín mọi khe hở khi zoom. */
-    transform: translateX(-30%); 
-    
+    transform: translateX(-30%);  
     height: 100%;
     z-index: 2; /* Nằm đè lên trên ảnh */
     pointer-events: none; /* Chuột bấm xuyên qua */
@@ -88,8 +75,6 @@
     max-width: none;    /* Không cho phép bị bóp méo */
     display: block;
 }
-
-/* 2. ĐỊNH VỊ BỨC ẢNH */
 .anh-nen {
     width: 100%;
     height: 100%;
@@ -105,7 +90,6 @@
     display: block;
 }
 
-/* --- RESPONSIVE: MÀN HÌNH ĐIỆN THOẠI/TABLET --- */
 @media (max-width: 991px) {
     .banner-gioi-thieu {
         height: auto;
@@ -119,9 +103,6 @@
         height: 300px;
         right: auto;
     }
-
-    /* Trên điện thoại, cái dây thường gây rối mắt hoặc che mất ảnh, 
-       nhưng nếu muốn giữ thì bỏ dòng display:none đi */
     .day-trang-tri {
         display: none; 
     }
@@ -132,19 +113,24 @@
         text-align: center;
     }
 }
-
-/* Khung bao ngoài dùng Flexbox để dàn hàng ngang */
 .khoi-noi-dung {
     display: flex;       /* Xếp cục số và danh sách nằm ngang */
     gap: 20px;          /* Khoảng cách giữa cục số và danh sách */
-    margin-bottom: 30px;
+    flex: 1;
+    align-self: stretch;
 }
+.cot-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
 #quyet-dinh-1660 {
     color: #272742;
     font-weight: 800;
     justify-self: center;
 }
-/* 1. Cục số to (05, 07) */
+
 .so-lon {
     flex: 0 0 130px;    /* Chiều rộng cố định 130px, không co giãn */
     display: flex;
@@ -170,34 +156,47 @@
     font-weight: 600;
 }
 
-/* 2. Danh sách các mục bên phải */
 .danh-sach-muc {
     flex-grow: 1; /* Chiếm hết phần không gian còn lại */
 }
-
+.mo-ta {
+    margin-bottom: 30px;
+    color: #174883;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
 .muc-con {
     padding: 12px 15px;
     margin-bottom: 10px; /* Khoảng cách giữa các dòng */
     border-radius: 5px;
     font-size: 0.95rem;
-    color: #333;
-    font-weight: 500;
+    color: #272742;
+    font-weight: bold;
 }
 
-/* --- QUY ĐỊNH MÀU SẮC (THEME) --- */
-
-/* Theme Màu Xanh (Cho phần 05) */
 .mau-xanh .so-lon {
-    background-color: #0099cc; /* Màu nền cục số */
+    background-color: #00ADE4; /* Màu nền cục số */
 }
 .mau-xanh .muc-con {
-    background-color: #e6f7ff; /* Màu nền các dòng text (xanh nhạt) */
+    background-color: #C0E7F5; /* Màu nền các dòng text (xanh nhạt) */
 }
-
-/* Theme Màu Cam (Cho phần 07) */
 .mau-cam .so-lon {
-    background-color: #ff6600; /* Màu nền cục số */
+    background-color: #F48929; /* Màu nền cục số */
 }
 .mau-cam .muc-con {
-    background-color: #fff0e6; /* Màu nền các dòng text (cam nhạt) */
+    background-color: #FDE9D8; /* Màu nền các dòng text (cam nhạt) */
+}
+.noi-dung p {
+    max-width: 720px;
+    margin: 0 auto;
+}
+.thong-diep {
+    color: #00ADE4;
+}
+.truong-hoc {
+    color: #F48929;
+}
+.noidungthongdiep {
+    max-width: 720px;
+    margin: 0 auto;
 }
