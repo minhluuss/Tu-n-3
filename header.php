@@ -14,6 +14,9 @@
     <?php if (isset($ten_css)) { echo $ten_css; } ?>
 </head>
 <body>
+    <div class="khung-banner-top">
+                <img src="images/banner1920x250.png" alt="">
+            </div>
     <header class="dau-trang">
 
         <!-- THANH TREN -->
