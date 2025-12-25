@@ -3,7 +3,6 @@
     include 'header.php'; 
 ?>
 
-<div id="khoangtrang" class="container-fluid">
 
 </div>
 <section class="banner-gioi-thieu">
@@ -127,9 +126,49 @@
     </p>
 </div>
 </section>
+ <section class="don-vi-dh">
+        <div class="khung-chung">
+            <div class="tieu-de-tin">
+                <h3>Đơn vị đồng hành</h3>
+            </div>
+            <div class="dv-logo">
+                <div class="logo-item"><img src="./images/dvdh1.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh2.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh3.jpg" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh4.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh5.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh6.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh7.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh8.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh9.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh10.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh11.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh12.png" alt=""></div>
+            </div>
+        </div>
+    </section>
 
-
-
+ <section class="don-vi-dh mb-5">
+        <div class="khung-chung">
+            <div class="tieu-de-tin">
+                <h3>Đơn vị truyền thông</h3>
+            </div>
+            <div class="dv-logo">
+                <div class="logo-item"><img src="./images/dvdh1.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh2.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh3.jpg" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh4.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh5.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh6.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh7.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh8.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh9.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh10.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh11.png" alt=""></div>
+                <div class="logo-item"><img src="./images/dvdh12.png" alt=""></div>
+            </div>
+        </div>
+    </section>
 
 <?php
     include 'footer.php'; 

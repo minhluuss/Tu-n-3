@@ -1,7 +1,4 @@
-#khoangtrang {
-    background-color: #fff;
-    height: 50px; /* Chiều cao khoảng trắng */
-}
+
 .banner-gioi-thieu {
     position: relative;
     background-color: #CDDFF1; /* Màu nền xanh nhạt bên trái */
@@ -199,4 +196,76 @@
 .noidungthongdiep {
     max-width: 720px;
     margin: 0 auto;
+}
+.don-vi-dh{
+    padding: 40px 0 60px;
+}
+.dv-logo{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+    align-items: center;
+}
+.logo-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo-item img {
+    max-width: 100%;
+    max-height: 60px;
+    object-fit: contain;
+    filter: grayscale(0);
+}
+/*ảnh md*/
+.khung-amd {
+    padding: 20px 0;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 20px;
+}
+
+.cot {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.khung {
+    background: #f2f2f2;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.khung img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.khung-tren {
+    height: 300px;
+}
+
+.khung-duoi {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+.khung-duoi .khung {
+    height: 300px;
+}
+
+.cot-giua .khung {
+    height: 300px;
+}
+
+.khung-phai {
+    height: 616px;
+}
+h3 {
+   text-align: left;
 }
