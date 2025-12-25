@@ -5,30 +5,8 @@
 
 
 </div>
-<section class="banner-gioi-thieu">
-    <div class="container h-100">
-        <div class="row h-100 align-items-center">
-            <div class="col-lg-6 col-md-12 position-relative lop-tren-cung">
-                <div class="noi-dung-chu">
-                    Giới thiệu chương trình<br>
-                    Sức khỏe học đường
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="phan-ben-phai">
-        <div class="day-trang-tri">
-            <img src="images/dayxanhvang.png" alt="dây xanh vàng">
-        </div>
-
-        <div class="anh-nen">
-            <img src="images/anhhocsinh.png" alt="Học sinh">
-        </div>
-    </div>
+<section class="banner-gioi-thieu container-fluid">
 </section>
-
-
 
 <section id="phan-noi-dung" class="py-5">
     <div class="container">
