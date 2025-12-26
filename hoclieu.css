@@ -1,0 +1,54 @@
+.noi-dung-hoc-lieu {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0px;
+}
+.thanh-menu-hoc-lieu {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+.danh-sach-menu-hoc-lieu {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+}
+li a {
+    text-decoration: none;
+    color: #5C5C77;
+    font-size: 18px;
+}
+h3.Hoc-lieu{
+color: #272742;
+font-size: 45px;
+}
+/*2 MỤC*/
+.hai-menu{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px 0px;
+}
+.khung-hai-menu{
+    display: flex;
+    gap: 20px;
+}
+.khung-tin-chung{
+    width: 50%;
+}
+.khung img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.khung-duoi{
+    display: flex;
+    gap: 20px;
+}
+.khung-banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}

@@ -60,7 +60,7 @@
                     <li><a href="Gioi_Thieu.php">Giới thiệu</a></li>
                     <li><a href="#">Tin tức</a></li>
                     <li><a href="#">Dự án</a></li>
-                    <li><a href="#">Học liệu</a></li>
+                    <li><a href="hoclieu.php">Học liệu</a></li>
                     <li><a href="#"><strong class="noi-bat">E</strong>-magazine</a></li>
                     <li><a href="#">Liên hệ</a></li>
                 </ul>
