@@ -1,5 +1,5 @@
 <?php
-    $ten_css = '<link rel="stylesheet" href="home.css">';
+    $ten_css = '<link rel="stylesheet" href="css/home.css">';
     include 'header.php'; 
 ?>
 <section class="anh-md">

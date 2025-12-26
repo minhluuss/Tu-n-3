@@ -1,5 +1,5 @@
 <?php
-    $ten_css = '<link rel="stylesheet" href="hoclieu.css">';
+    $ten_css = '<link rel="stylesheet" href="css/hoclieu.css">';
     include 'header.php'; 
 ?>
 
@@ -20,52 +20,52 @@
 
             <div class="khung-tin-chung">
                 <div class="tieu-de-tin">
-                    <h3>Mầm non</h3>
+                    <h3>THCS</h3>
                 </div>
                 <div class="khung khung-tren">
-                    <img src="images/Big Post.png" alt="">
+                    <img src="images/thcs1.png" alt="">
                 </div>
             
              <div class="khung-duoi">
                         <div class="khung">
-                            <img src="./images/mamnon1.png" alt="">
+                            <img src="./images/thcs2.png" alt="">
                         </div>
                         <div class="khung">
-                            <img src="./images/mamnon2.png" alt="">
+                            <img src="./images/thcs3.png" alt="">
                         </div>
                     </div>
 
             <div class="khung-duoi">
                         <div class="khung">
-                            <img src="./images/mamnon3.png" alt="">
+                            <img src="./images/thcs4.png" alt="">
                         </div>
                         <div class="khung">
-                            <img src="./images/mamnon4.png" alt="">
+                            <img src="./images/thcs5.png" alt="">
                         </div>
                     </div>
         </div>
 
             <div class="khung-tin-chung">
                 <div class="tieu-de-tin">
-                    <h3>Tiểu học</h3>
+                    <h3>THPT</h3>
                 </div>
                 <div class="khung khung-tren">
-                    <img src="images/Big Post 2.png" alt="">
+                    <img src="images/thpt1.png" alt="">
                 </div>
                 <div class="khung-duoi">
                         <div class="khung">
-                            <img src="./images/tieuhoc1.png" alt="">
+                            <img src="./images/thpt2.png" alt="">
                         </div>
                         <div class="khung">
-                            <img src="./images/tieuhoc2.png" alt="">
+                            <img src="./images/thpt3.png" alt="">
                         </div>
                     </div>
                     <div class="khung-duoi">
                         <div class="khung">
-                            <img src="./images/tieuhoc3.png" alt="">
+                            <img src="./images/thpt4.png" alt="">
                         </div>
                         <div class="khung">
-                            <img src="./images/tieuhoc4.png" alt="">
+                            <img src="./images/thpt5.png" alt="">
                         </div>
                     </div>
             </div>

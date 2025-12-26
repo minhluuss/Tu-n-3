@@ -1,5 +1,5 @@
 <?php
-    $ten_css = '<link rel="stylesheet" href="HLmamnon.css">';
+    $ten_css = '<link rel="stylesheet" href="css/HLmamnon.css">';
     include 'header.php'; 
 ?>
 
