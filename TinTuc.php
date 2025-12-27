@@ -20,7 +20,7 @@
 </section>
             <div class="khung-amd">
                 <div class="cot cot-trai">
-                    <div class="khung khung-to">
+                    <div class="khung khung-tren">
                         <img src="images/khungto.png" alt="Ảnh nền">
                         
                             <div class="nut-play">
@@ -29,8 +29,8 @@
 
                             <div class="lop-phu-noi-dung">
                                 <div class="meta">
-                                <span class="tag">Tin tức</span>
-                                <span class="time">30 phút</span>
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">30 phút</span>
                                 </div>
                             
                                 <h3 class="tieu-de-trang">
@@ -41,29 +41,29 @@
                                     <span><i class="fa fa-heart"></i> 30</span>
                                     <span><i class="fa fa-share-alt"></i></span>
                                 </div>
-                        </div>
-                    </div>
-
-                    <div class="khung-duoi">
-                    <div class="khung">
-                        <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
-                        </div>
-
-                        <div class="phan-noi-dung">
-                            <div class="meta">
-                                <span class="tag">Tin tức</span>
-                                <span class="time">1 giờ</span>
-                            </div>
-                            <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
-                            </h3>
-                            <div class="tuong-tac">
-                                <span><i class="fa fa-heart"></i> 100</span>
-                                <span><i class="fa fa-share-alt"></i></span>
                             </div>
                         </div>
-                    </div>
+
+                        <div class="khung-duoi">
+                        <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
                         
                        <div class="khung">
                         <div class="phan-anh">
@@ -83,7 +83,7 @@
                                 <span><i class="fa fa-share-alt"></i></span>
                             </div>
                         </div>
-                    </div>
+                        </div>
 
                         <div class="khung">
                         <div class="phan-anh">
@@ -103,7 +103,7 @@
                                 <span><i class="fa fa-share-alt"></i></span>
                             </div>
                         </div>
-                    </div>
+                        </div>
 
                        <div class="khung">
                         <div class="phan-anh">
@@ -123,7 +123,7 @@
                                 <span><i class="fa fa-share-alt"></i></span>
                             </div>
                         </div>
-                    </div>
+                     </div>
 
                        <div class="khung">
                         <div class="phan-anh">
@@ -143,9 +143,9 @@
                                 <span><i class="fa fa-share-alt"></i></span>
                             </div>
                         </div>
-                    </div>
+                     </div>
 
-                    <div class="khung">
+                     <div class="khung">
                         <div class="phan-anh">
                             <img src="images/khung2.png" alt="Ảnh tin tức">
                         </div>
@@ -163,9 +163,9 @@
                                 <span><i class="fa fa-share-alt"></i></span>
                             </div>
                         </div>
-                    </div>
+                     </div>
 
-                    </div>
+                     </div>
                 </div>
 
                 <div class="cot cot-giua">

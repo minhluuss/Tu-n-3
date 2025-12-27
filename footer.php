@@ -1,11 +1,15 @@
  <section class="khu-vuc-lien-he">
+     <div class="duong-ke-giua">
+                <img src="images/dayxanhvang.png" alt="">
+            </div>
         <div class="khung-noi-dung khung-chung">
 
             <!-- BÊN TRÁI -->
             <div class="noi-dung-trai mb-5 mt-5">
                 <img src="images/thathskm.png" alt="">
             </div>
-
+            
+           
             <!-- BÊN PHẢI -->
             <div class="hop-lien-he mb-5 mt-5">
                 <h3 class="tieu-de-form">Liên hệ</h3>
