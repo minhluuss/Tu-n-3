@@ -50,7 +50,6 @@ font-weight: bold;
 .khung-amd .khung-tren {
     position: relative; /* Quan trọng: để các con bên trong định vị theo nó */
     width: 100%;
-    height: 100%; /* Hoặc set chiều cao cố định nếu cần */
     overflow: hidden;
     border-radius: 16px;
 }
@@ -125,11 +124,11 @@ font-weight: bold;
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
     z-index: 2;
 }
-
 .phan-anh {
     height: 50%; /* Chiếm 50% chiều cao khung */
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 .phan-noi-dung {
     height: 50%; /* Chiếm 50% chiều cao khung */
@@ -146,7 +145,11 @@ font-weight: bold;
     color: #666;
     margin-bottom: 5px;
 }
-
+.meta-chinh .tag .time {
+    color: white; /* Màu cam của chữ Nước sạch học đường */
+    font-weight: bold;
+    margin-right: 5px;
+}
 .meta .tag {
     color: #007bff; /* Màu xanh của chữ Tin tức */
     font-weight: bold;
@@ -172,6 +175,84 @@ font-weight: bold;
     font-size: 13px;
     color: #555;
     margin-top: auto; /* Đẩy xuống đáy */
+}
+
+.khung-slider {
+    position: relative;
+     display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.khung-nhin {
+    width: 100%;
+    overflow: hidden;
+}
+
+.danh-sach-tin {
+    display: flex;
+    gap: 24px;
+    transition: transform 0.5s ease;
+}
+
+/* Thẻ tin */
+.the-tin {
+    flex: 0 0 calc((100% - 72px) / 4);
+    background: #f0f7ff;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Ảnh */
+.anh-tin img {
+    width: 100%;
+    height: 50%;
+    position: relative;
+}
+
+
+/* Nút */
+.nut-slider {
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+
+    background: #ff8c1a;
+    color: #fff;
+    border: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+
+    z-index: 10;
+    transition: all 0.25s ease;
+}
+
+.nut-truoc { left: -22px; }
+.nut-sau   { right: -22px; }
+
+
+/*Sức khỏe*/
+.suc-khoe {
+    padding: 20px 0;
+    border: #1f3f75;
+    background-color: #174a84;
+    border-radius: 20px;
+    max-width: 1250px;
+    margin: auto;
+}
+.bn-suc-khoe{
+    margin: 10px 0 20px 0;
 }
 .khung img {
     width: 100%;
@@ -238,4 +319,66 @@ font-weight: bold;
     width: 100%;
     height: auto;
     display: block;
+}
+
+.hai-menu{
+    padding: 30px 0;
+}
+.khung-hai-menu{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+}
+.khung-tin-chung{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.khung-amd {
+    padding: 20px 0;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 20px;
+}
+
+.cot {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.khung {
+    background: #f2f2f2;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.khung img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.khung-tren {
+    height: 300px;
+}
+
+.khung-duoi {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+.khung-duoi .khung {
+    height: 300px;
+}
+
+.cot-giua .khung {
+    height: 300px;
+}
+
+.khung-phai {
+    height: 616px;
 }

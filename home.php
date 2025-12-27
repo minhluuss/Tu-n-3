@@ -7,12 +7,12 @@
             <div class="cot cot-trai">
                 <div class="khung khung-tren">
                     <img src="images/khungto.png" alt="">
-                    <div class="nut-play">
+                            <div class="nut-play">
                             <i class="fa fa-play"></i>
                             </div>
 
                             <div class="lop-phu-noi-dung">
-                                <div class="meta">
+                                <div class="meta-chinh">
                                     <span class="tag">Tin tức</span>
                                     <span class="time">30 phút</span>
                                 </div>
@@ -344,16 +344,19 @@
                     <div class="danh-sach-tin">
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tintuc1.png" alt="">
+                                <img src="images/skhd1.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
                             </div>
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Sức khỏe học đường TV</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
                                 <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Thực trạng sức khoẻ của học sinh trong học đường
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -365,16 +368,19 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tintuc1.png" alt="">
+                                <img src="images/skhd2.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
                             </div>
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Sức khỏe học đường TV</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
                                 <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Tổng quan Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -386,16 +392,19 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tintuc1.png" alt="">
+                                <img src="images/skhd3.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
                             </div>
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
                                 <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Lễ công bố Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -407,16 +416,19 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/skhd4.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
                             </div>
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
                                 <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -428,16 +440,19 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/skhd4.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
                             </div>
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
                                 <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -445,83 +460,23 @@
                                     <span><i class="fa fa-share-alt"></i></span>
                                 </div>
                             </div>
-                        </div>
+                        </div>         
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/skhd4.png" alt="">
+                                 <div class="nut-play">
+                                    <i class="fa fa-play"></i>
+                                    </div>
                             </div>
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
                                 <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="phan-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="phan-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="phan-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -533,16 +488,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/skhd4.png" alt="">
                             </div>
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
                                 <h3 class="tieu-de">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -582,16 +537,16 @@
                     <div class="danh-sach-tin">
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd1.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Livestream: Tầm quan trọng của việc phòng và phát hiện sớm bệnh lý cúm mùa - sốt xuất huyết
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -603,16 +558,16 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd2.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Điều gì xảy ra với hệ tiêu hoá nếu không ăn rau xanh?
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -624,16 +579,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd3.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Bổ sung vitamin A liều cao cho trẻ, có nên mua bên ngoài?
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -645,16 +600,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd4.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lưu ý khi dùng thuốc ho, thuốc nhỏ mũi, nhỏ tai ở trẻ em
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -666,16 +621,16 @@
                          
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd4.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lưu ý khi dùng thuốc ho, thuốc nhỏ mũi, nhỏ tai ở trẻ em
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -687,16 +642,16 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd4.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lưu ý khi dùng thuốc ho, thuốc nhỏ mũi, nhỏ tai ở trẻ em
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -708,16 +663,16 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd4.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lưu ý khi dùng thuốc ho, thuốc nhỏ mũi, nhỏ tai ở trẻ em
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -729,16 +684,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd4.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lưu ý khi dùng thuốc ho, thuốc nhỏ mũi, nhỏ tai ở trẻ em
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -750,16 +705,16 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/hd4.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lưu ý khi dùng thuốc ho, thuốc nhỏ mũi, nhỏ tai ở trẻ em
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -767,31 +722,9 @@
                                     <span><i class="fa fa-share-alt"></i></span>
                                 </div>
                             </div>
-                         </div>
-
-                       <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
-                        
+                         </div> 
                     </div>
-                </div>
+                      
 
                 <button class="nut-slider nut-sau">›</button>
             </div>
@@ -812,17 +745,19 @@
             <div class="khung-amd">
                 <div class="cot cot-trai">
                     <div class="khung khung-tren">
-                    <img src="images/khungto.png" alt="">
-                    
+                    <img src="images/da1.png" alt="">
+                            <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
 
                             <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                <div class="meta-chinh">
+                                    <span class="tag">Nước sạch học đường</span>
                                     <span class="time">30 phút</span>
                                 </div>
                             
                                 <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                Trường học “khát” nước sạch
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -834,16 +769,16 @@
                     <div class="khung-duoi">
                     <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/da3.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Nha khoa học đường</span> 
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    80% học sinh Việt Nam mắc bệnh răng miệng
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -853,16 +788,16 @@
                         </div>
                     <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/da4.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Dinh dưỡng học đường</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    Nâng chất lượng bữa ăn bán trú cho học sinh vùng cao
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -876,16 +811,16 @@
                  <div class="cot cot-giua">
                 <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/da2.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Nước sạch học đường</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                   Học sinh ám ảnh nước uống trường học
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -895,18 +830,18 @@
                         </div>
                         <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/da5.png" alt="Ảnh tin tức">
                                 
                             </div>
                         
                             <div class="phan-noi-dung">
                                 
                                 <div class="meta">
-                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="tag">Nước sạch học đường</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    Nguy cơ học sinh mắc bệnh tiêu hóa vì thiếu nước sạch ở tại trường học
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -944,16 +879,16 @@
                     <div class="danh-sach-tin">
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/mamnon1.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                               Sổ tay hướng dẫn lồng ghép truyền thông rửa tay với xà phòng
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -965,16 +900,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/tieuhoc1.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Tiểu học</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Phòng ngừa chứng nghiện game cho trẻ nhỏ
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -986,16 +921,16 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/thcs1.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">THCS</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Chăm sóc mắt và phòng chống mù lòa cho học sinh THCS
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1007,16 +942,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/tieuhoc2.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Tiểu học</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Chăm sóc mắt và phòng chống mù lòa cho học sinh tiểu học
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1028,16 +963,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/tieuhoc2.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Tiểu học</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Chăm sóc mắt và phòng chống mù lòa cho học sinh tiểu học
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1046,103 +981,20 @@
                                 </div>
                             </div> 
                         </div>
-
-                        <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div> 
-
-                      <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div> 
-
-                      <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
-
-                       <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
+                 
                          
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/tieuhoc2.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Tiểu học</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Chăm sóc mắt và phòng chống mù lòa cho học sinh tiểu học
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1182,19 +1034,19 @@
                     <div class="danh-sach-tin">
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/ttbc1.png" alt="">
                                 <div class="nut-play">
                                     <i class="fa fa-play"></i>
                                 </div>
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Thông tin báo chí</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lễ công bố Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1206,16 +1058,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/ttbc2.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Thông tin báo chí</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Tổng quan Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1227,19 +1079,19 @@
 
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/ttbc1.png" alt="">
                                 <div class="nut-play">
                                     <i class="fa fa-play"></i>
                                 </div>
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Thông tin báo chí</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lễ công bố Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1251,16 +1103,16 @@
                          
                         <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/ttbc2.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Thông tin báo chí</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Tổng quan Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1272,16 +1124,19 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/ttbc1.png" alt="">
+                                <div class="nut-play">
+                                    <i class="fa fa-play"></i>
+                                </div>
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Thông tin báo chí</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Lễ công bố Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1293,16 +1148,16 @@
 
                        <div class="khung the-tin">
                             <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
+                                <img src="images/ttbc2.png" alt="">
                             </div>
-                            <div class="lop-phu-noi-dung">
+                            <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
+                                    <span class="tag">Thông tin báo chí</span>
+                                    <span class="time">1 giờ</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                <h3 class="tieu-de">
+                                Tổng quan Chương trình Sức khoẻ học đường giai đoạn 2021-2025
                                 </h3>
                             
                                 <div class="tuong-tac">
@@ -1311,90 +1166,7 @@
                                 </div>
                             </div>
                         </div>
-
-                      <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
-
-                       <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
-
-                       <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div> 
                          
-                        <div class="khung the-tin">
-                            <div class="phan-anh">
-                                <img src="images/tt1.png" alt="">
-                            </div>
-                            <div class="lop-phu-noi-dung">
-                                <div class="meta">
-                                    <span class="tag">Tin tức</span>
-                                    <span class="time">30 phút</span>
-                                </div>
-                            
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
-                            
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
-                        </div>
 
                     </div>
                 </div>

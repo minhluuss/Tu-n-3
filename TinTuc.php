@@ -28,7 +28,7 @@
                             </div>
 
                             <div class="lop-phu-noi-dung">
-                                <div class="meta">
+                                <div class="meta-chinh">
                                     <span class="tag">Tin tức</span>
                                     <span class="time">30 phút</span>
                                 </div>
@@ -275,6 +275,253 @@
     <img src="images/bannersk.png" alt="">
 </div>
 
+
+<section class="suc-khoe">
+        <div class="khung-chung">
+            <div class="tieu-de-tin">
+                <h3>Sức Khỏe Học Đường TV</h3>
+            </div>
+
+            <div class="khung-slider ">
+                <button class="nut-slider nut-truoc">‹</button>
+
+                <div class="khung-nhin">
+                    <div class="danh-sach-tin">
+                        <div class="khung the-tin">
+                            <div class="phan-anh">
+                                <img src="images/skhd1.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
+                            </div>
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Sức khỏe học đường TV</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                            
+                                <h3 class="tieu-de">
+                                Thực trạng sức khoẻ của học sinh trong học đường
+                                </h3>
+                            
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 30</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                       <div class="khung the-tin">
+                            <div class="phan-anh">
+                                <img src="images/skhd2.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
+                            </div>
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Sức khỏe học đường TV</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                            
+                                <h3 class="tieu-de">
+                                Tổng quan Chương trình Sức khoẻ học đường giai đoạn 2021-2025
+                                </h3>
+                            
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 30</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="khung the-tin">
+                            <div class="phan-anh">
+                                <img src="images/skhd3.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
+                            </div>
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                            
+                                <h3 class="tieu-de">
+                                Lễ công bố Chương trình Sức khoẻ học đường giai đoạn 2021-2025
+                                </h3>
+                            
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 30</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="khung the-tin">
+                            <div class="phan-anh">
+                                <img src="images/skhd4.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
+                            </div>
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                            
+                                <h3 class="tieu-de">
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
+                                </h3>
+                            
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 30</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="khung the-tin">
+                            <div class="phan-anh">
+                                <img src="images/skhd4.png" alt="">
+                                 <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
+                            </div>
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                            
+                                <h3 class="tieu-de">
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
+                                </h3>
+                            
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 30</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>         
+
+                        <div class="khung the-tin">
+                            <div class="phan-anh">
+                                <img src="images/skhd4.png" alt="">
+                                 <div class="nut-play">
+                                    <i class="fa fa-play"></i>
+                                    </div>
+                            </div>
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                            
+                                <h3 class="tieu-de">
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
+                                </h3>
+                            
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 30</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                       <div class="khung the-tin">
+                            <div class="phan-anh">
+                                <img src="images/skhd4.png" alt="">
+                            </div>
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Sức khỏe học đường TV </span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                            
+                                <h3 class="tieu-de">
+                                Nghệ sĩ Xuân Bắc, Hoa hậu H’Henie.... nói gì về ma tuý
+                                </h3>
+                            
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 30</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <button class="nut-slider nut-sau">›</button>
+            </div>
+        </div>
+    </section>
+
+    <section class="hai-menu">
+    <div class="khung-chung">
+        <div class="khung-hai-menu">
+
+            <div class="khung-tin-chung">
+                <div class="tieu-de-tin">
+                    <h3>THCS</h3>
+                </div>
+                <div class="khung khung-tren">
+                    <img src="images/thcs1.png" alt="">
+                </div>
+            
+             <div class="khung-duoi">
+                        <div class="khung">
+                            <img src="./images/thcs2.png" alt="">
+                        </div>
+                        <div class="khung">
+                            <img src="./images/thcs3.png" alt="">
+                        </div>
+                    </div>
+
+            <div class="khung-duoi">
+                        <div class="khung">
+                            <img src="./images/thcs4.png" alt="">
+                        </div>
+                        <div class="khung">
+                            <img src="./images/thcs5.png" alt="">
+                        </div>
+                    </div>
+        </div>
+
+            <div class="khung-tin-chung">
+                <div class="tieu-de-tin">
+                    <h3>THPT</h3>
+                </div>
+                <div class="khung khung-tren">
+                    <img src="images/thpt1.png" alt="">
+                </div>
+                <div class="khung-duoi">
+                        <div class="khung">
+                            <img src="./images/thpt2.png" alt="">
+                        </div>
+                        <div class="khung">
+                            <img src="./images/thpt3.png" alt="">
+                        </div>
+                    </div>
+                    <div class="khung-duoi">
+                        <div class="khung">
+                            <img src="./images/thpt4.png" alt="">
+                        </div>
+                        <div class="khung">
+                            <img src="./images/thpt5.png" alt="">
+                        </div>
+                    </div>
+            </div>
+            
+        </div>
+    </div>
+
+</section>
+
     <?php
+     $ten_js = '<script src="js/home.js"></script>';
     include 'footer.php'; 
 ?>
