@@ -474,19 +474,83 @@
             
              <div class="khung-duoi">
                         <div class="khung">
-                            <img src="./images/thcs2.png" alt="">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
                         <div class="khung">
-                            <img src="./images/thcs3.png" alt="">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
             <div class="khung-duoi">
+                       <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div> 
                         <div class="khung">
-                            <img src="./images/thcs4.png" alt="">
-                        </div>
-                        <div class="khung">
-                            <img src="./images/thcs5.png" alt="">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
                     </div>
         </div>
@@ -497,22 +561,91 @@
                 </div>
                 <div class="khung khung-tren">
                     <img src="images/thpt1.png" alt="">
+                    
                 </div>
                 <div class="khung-duoi">
-                        <div class="khung">
-                            <img src="./images/thpt2.png" alt="">
+                       <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div> 
+
+                       <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="khung">
-                            <img src="./images/thpt3.png" alt="">
-                        </div>
+
                     </div>
                     <div class="khung-duoi">
                         <div class="khung">
-                            <img src="./images/thpt4.png" alt="">
-                        </div>
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div> 
+
                         <div class="khung">
-                            <img src="./images/thpt5.png" alt="">
+                            <div class="phan-anh">
+                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Tin tức</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
+
                     </div>
             </div>
             
