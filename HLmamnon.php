@@ -21,60 +21,388 @@
             <div class="khung-amd">
                 <div class="cot cot-trai">
                     <div class="khung khung-tren">
-                        <img src="images/banner-mamnon.png" alt="">
-                    </div>
-                    <div class="khung-duoi">
-                        <div class="khung">
-                            <img src="images/banner-mamnon1.png" alt="">
+                        <img src="images/mamnon1.png" alt="Ảnh nền">
+                                               
+                            <div class="lop-phu-noi-dung">
+                                <div class="meta-chinh">
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">30 phút</span>
+                                </div>
+                            
+                                    <h3 class="tieu-de-trang">
+                                    Sổ tay hướng dẫn lồng ghép truyền thông rửa tay với xà phòng
+                                    </h3>
+                            
+                                    <div class="tuong-tac">
+                                        <span><i class="fa fa-heart"></i> 30</span>
+                                        <span><i class="fa fa-share-alt"></i></span>
+                                    </div>
+                            </div> 
                         </div>
+
+                        <div class="khung-duoi">
                         <div class="khung">
-                            <img src="images/banner-mamnon2.png" alt="">
+                            <div class="phan-anh">
+                                <img src="images/mamnon2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                   Những biện pháp phòng tránh đuối nước
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon1.png" alt="">
+                        
+                       <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon3.png" alt="Ảnh tin tức">
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon2.png" alt="">
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                               Trẻ bị say nắng say nóng, cha mẹ cần làm gì?
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon1.png" alt="">
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon2.png" alt="">
+
+                         <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/mamnon2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                   Những biện pháp phòng tránh đuối nước
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon1.png" alt="">
+                        
+                       <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon3.png" alt="Ảnh tin tức">
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon2.png" alt="">
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                               Trẻ bị say nắng say nóng, cha mẹ cần làm gì?
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon1.png" alt="">
                         </div>
-                        <div class="khung">
-                            <img src="images/banner-mamnon2.png" alt="">
+
+                       <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/mamnon2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                   Những biện pháp phòng tránh đuối nước
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                        
+                       <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon3.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                               Trẻ bị say nắng say nóng, cha mẹ cần làm gì?
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
+                        </div>
+                     <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/mamnon2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                   Những biện pháp phòng tránh đuối nước
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                       <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon3.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                               Trẻ bị say nắng say nóng, cha mẹ cần làm gì?
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
+                        </div>
+                         <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/mamnon2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                   Những biện pháp phòng tránh đuối nước
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                       <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon3.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                               Trẻ bị say nắng say nóng, cha mẹ cần làm gì?
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
+                        </div>
+
+                     </div>
                 </div>
 
                 <div class="cot cot-giua">
+
+                     <div class="khung">
+                            <div class="phan-anh">
+                                <img src="images/mamnon2.png" alt="Ảnh tin tức">
+                            </div>
+
+                            <div class="phan-noi-dung">
+                                <div class="meta">
+                                    <span class="tag">Mầm non</span>
+                                    <span class="time">1 giờ</span>
+                                </div>
+                                <h3 class="tieu-de">
+                                   Những biện pháp phòng tránh đuối nước
+                                </h3>
+                                <div class="tuong-tac">
+                                    <span><i class="fa fa-heart"></i> 100</span>
+                                    <span><i class="fa fa-share-alt"></i></span>
+                                </div>
+                            </div>
+                        </div>
+
                     <div class="khung">
-                        <img src="images/banner-mamnon1.png" alt="">
+                        <div class="phan-anh">
+                            <img src="images/mamnon5.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                                Chăm sóc bảo vệ da, lưỡi và mũi
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
                     </div>
+
                     <div class="khung">
-                        <img src="images/banner-mamnon3.png" alt="">
+                        <div class="phan-anh">
+                            <img src="images/mamnon5.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                                Chăm sóc bảo vệ da, lưỡi và mũi
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
                     </div>
+
                     <div class="khung">
-                        <img src="images/banner-mamnon3.png" alt="">
+                        <div class="phan-anh">
+                            <img src="images/mamnon5.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                                Chăm sóc bảo vệ da, lưỡi và mũi
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
                     </div>
+
                     <div class="khung">
-                        <img src="images/banner-mamnon3.png" alt="">
+                        <div class="phan-anh">
+                            <img src="images/mamnon5.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                                Chăm sóc bảo vệ da, lưỡi và mũi
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
                     </div>
-                    <div class="khung">
-                        <img src="images/banner-mamnon3.png" alt="">
+
+                     <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon5.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                                Chăm sóc bảo vệ da, lưỡi và mũi
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
+                         <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon5.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                                Chăm sóc bảo vệ da, lưỡi và mũi
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
                     </div>
-                    <div class="khung">
-                        <img src="images/banner-mamnon3.png" alt="">
+                     <div class="khung">
+                        <div class="phan-anh">
+                            <img src="images/mamnon5.png" alt="Ảnh tin tức">
+                        </div>
+
+                        <div class="phan-noi-dung">
+                            <div class="meta">
+                                <span class="tag">Mầm non</span>
+                                <span class="time">1 giờ</span>
+                            </div>
+                            <h3 class="tieu-de">
+                                Chăm sóc bảo vệ da, lưỡi và mũi
+                            </h3>
+                            <div class="tuong-tac">
+                                <span><i class="fa fa-heart"></i> 100</span>
+                                <span><i class="fa fa-share-alt"></i></span>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+
                     </div>
                 </div>
 
@@ -96,7 +424,7 @@
                 <button class="trang sau">›</button>
             </div>
         </div>
-    </section>
+    </section>  
  <div class="khung-banner container-fluid mt-5 mb-4">
     <img src="images/bannersk.png" alt="">
 </div>

@@ -33,21 +33,21 @@
                                     <span class="time">30 phút</span>
                                 </div>
                             
-                                <h3 class="tieu-de-trang">
-                                Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
-                                </h3>
+                                    <h3 class="tieu-de-trang">
+                                    Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi
+                                    </h3>
                             
-                                <div class="tuong-tac">
-                                    <span><i class="fa fa-heart"></i> 30</span>
-                                    <span><i class="fa fa-share-alt"></i></span>
-                                </div>
-                            </div>
+                                    <div class="tuong-tac">
+                                        <span><i class="fa fa-heart"></i> 30</span>
+                                        <span><i class="fa fa-share-alt"></i></span>
+                                    </div>
+                            </div> 
                         </div>
 
                         <div class="khung-duoi">
                         <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/tintuc2.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
@@ -67,7 +67,7 @@
                         
                        <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc3.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -76,7 +76,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Hơn 2000 cơ sở giáo dục tại TPHCM được kiểm tra vệ sinh an toàn thực phẩm
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -87,7 +87,7 @@
 
                         <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc5.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -96,7 +96,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Hà Tĩnh liên tiếp phát hiện nhóm học sinh chế pháo nổ
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -107,7 +107,7 @@
 
                        <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc6.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -116,7 +116,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Đắk Lắk ghi nhận thêm 2 trường hợp mắc bệnh viêm não Nhật Bản
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -127,7 +127,7 @@
 
                        <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc1.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -136,7 +136,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Đình chỉ hiệu trưởng vụ trường học sử dụng thực phẩm kém chất lượng, cắt xén suất ăn của học sinh
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -147,7 +147,7 @@
 
                      <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc8.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -156,7 +156,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Bé gái 12 tuổi nhập viện nghi do bạo lực học đường dẫn đến sang chấn tâm lý
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -172,7 +172,7 @@
 
                     <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc1.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -181,7 +181,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Đình chỉ hiệu trưởng vụ trường học sử dụng thực phẩm kém chất lượng, cắt xén suất ăn
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -192,7 +192,7 @@
 
                     <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc4.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -201,7 +201,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Phẫu thuật miễn phí cho 50 trẻ em bị di tật hở môi, vòm miệng
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -212,7 +212,7 @@
 
                     <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc7.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -221,7 +221,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Quảng Ngãi: gần 30 học sinh tiểu học và THCS nhập viện sau khi ăn thạch lạ
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -232,7 +232,7 @@
 
                     <div class="khung">
                         <div class="phan-anh">
-                            <img src="images/khung2.png" alt="Ảnh tin tức">
+                            <img src="images/tintuc4.png" alt="Ảnh tin tức">
                         </div>
 
                         <div class="phan-noi-dung">
@@ -241,7 +241,7 @@
                                 <span class="time">1 giờ</span>
                             </div>
                             <h3 class="tieu-de">
-                                Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                Phẫu thuật miễn phí cho 50 trẻ em bị di tật hở môi, vòm miệng
                             </h3>
                             <div class="tuong-tac">
                                 <span><i class="fa fa-heart"></i> 100</span>
@@ -466,25 +466,45 @@
 
             <div class="khung-tin-chung">
                 <div class="tieu-de-tin">
-                    <h3>THCS</h3>
+                    <h3>Hỏi đáp chuyên gia</h3>
                 </div>
                 <div class="khung khung-tren">
-                    <img src="images/thcs1.png" alt="">
-                </div>
+                        <img src="images/hd1.png" alt="Ảnh nền">
+                        
+                            <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
+
+                            <div class="lop-phu-noi-dung">
+                                <div class="meta-chinh">
+                                    <span class="tag">Hỏi đáp</span>
+                                    <span class="time">30 phút</span>
+                                </div>
+                            
+                                    <h3 class="tieu-de-trang">
+                                    Livestream: Tầm quan trọng của việc phòng và phát hiện sớm bệnh lý cúm mùa - sốt xuất huyết
+                                    </h3>
+                            
+                                    <div class="tuong-tac">
+                                        <span><i class="fa fa-heart"></i> 30</span>
+                                        <span><i class="fa fa-share-alt"></i></span>
+                                    </div>
+                            </div> 
+                        </div>
             
              <div class="khung-duoi">
                         <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/hd3.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Hỏi đáp</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                   Bổ sung vitamin A liều cao cho trẻ, có nên mua bên ngoài?
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -494,16 +514,16 @@
                         </div>
                         <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/hd4.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Hỏi đáp</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    Lưu ý khi dùng thuốc ho, thuốc nhỏ mũi, nhỏ tai ở trẻ em
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -516,16 +536,16 @@
             <div class="khung-duoi">
                        <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/hd5.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Hỏi đáp</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    Cảnh báo nguy cơ nhiễm khuẩn khi tiếp xúc bùn đất bẩn
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -535,16 +555,16 @@
                         </div> 
                         <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/hd6.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Hỏi đáp</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    Cách bảo quản thực phẩm trong tủ lạnh tránh ngộ độc
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -557,25 +577,48 @@
 
             <div class="khung-tin-chung">
                 <div class="tieu-de-tin">
-                    <h3>THPT</h3>
+                    <h3>Thông cáo báo chí</h3>
                 </div>
                 <div class="khung khung-tren">
-                    <img src="images/thpt1.png" alt="">
-                    
-                </div>
+                        <img src="images/ttbc1.png" alt="Ảnh nền">
+                        
+                            <div class="nut-play">
+                            <i class="fa fa-play"></i>
+                            </div>
+
+                            <div class="lop-phu-noi-dung">
+                                <div class="meta-chinh">
+                                    <span class="tag">Thông cáo báo chí</span>
+                                    <span class="time">30 phút</span>
+                                </div>
+                            
+                                    <h3 class="tieu-de-trang">
+                                    Lễ công bố Chương trình Sức khoẻ học đường giai đoạn 2021-2025
+                                    </h3>
+                            
+                                    <div class="tuong-tac">
+                                        <span><i class="fa fa-heart"></i> 30</span>
+                                        <span><i class="fa fa-share-alt"></i></span>
+                                    </div>
+                            </div> 
+                        </div>
                 <div class="khung-duoi">
                        <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/khungto.png" alt="Ảnh tin tức">
+                                <div class="nut-play">
+                                    <i class="fa fa-play"></i>
+                                </div>
+
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Thông cáo báo chí</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    Phê duyệt chương trình chăm sóc sức khoẻ tâm thần trẻ em, chăm sóc trẻ mồ côi giai đoạn 2023 - 2030 
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -586,16 +629,16 @@
 
                        <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/tintuc3.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Thông cáo báo chí</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                   Hơn 2000 cơ sở giáo dục tại TPHCM được kiểm tra vệ sinh an toàn thực phẩm
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -608,16 +651,19 @@
                     <div class="khung-duoi">
                         <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/tintuc5.png" alt="Ảnh tin tức">
+                                 <div class="nut-play">
+                                    <i class="fa fa-play"></i>
+                                </div>
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Thông cáo báo chí</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                    Hà Tĩnh liên tiếp phát hiện nhóm học sinh chế pháo nổ
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -628,16 +674,16 @@
 
                         <div class="khung">
                             <div class="phan-anh">
-                                <img src="images/khung2.png" alt="Ảnh tin tức">
+                                <img src="images/tintuc6.png" alt="Ảnh tin tức">
                             </div>
 
                             <div class="phan-noi-dung">
                                 <div class="meta">
-                                    <span class="tag">Tin tức</span>
+                                    <span class="tag">Thông cáo báo chí</span>
                                     <span class="time">1 giờ</span>
                                 </div>
                                 <h3 class="tieu-de">
-                                    Triển khai dự án xây dựng 1000 nhà vệ sinh trường học tại các địa bàn khó khăn
+                                   Đắk Lắk ghi nhận thêm 2 trường hợp mắc bệnh viêm não Nhật Bản
                                 </h3>
                                 <div class="tuong-tac">
                                     <span><i class="fa fa-heart"></i> 100</span>
@@ -648,12 +694,15 @@
 
                     </div>
             </div>
-            
+       
         </div>
+             
     </div>
 
 </section>
-
+<div class="khung-banner container-fluid mt-4 mb-5">
+                <img src="images/bannersk.png" alt="">
+            </div>
     <?php
      $ten_js = '<script src="js/home.js"></script>';
     include 'footer.php'; 
