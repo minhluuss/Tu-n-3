@@ -58,7 +58,7 @@
                 <ul class="danh-sach-menu">
                     <li><a href="home.php" class="home"><img src="images/Home.png" alt="home"></a></li>
                     <li><a href="Gioi_Thieu.php">Giới thiệu</a></li>
-                    <li><a href="#">Tin tức</a></li>
+                    <li><a href="TinTuc.php">Tin tức</a></li>
                     <li><a href="#">Dự án</a></li>
                     <li><a href="hoclieu.php">Học liệu</a></li>
                     <li><a href="#"><strong class="noi-bat">E</strong>-magazine</a></li>

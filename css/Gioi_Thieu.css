@@ -17,7 +17,10 @@
     display: flex;       /* Xếp cục số và danh sách nằm ngang */
     gap: 20px;          /* Khoảng cách giữa cục số và danh sách */
     flex: 1;
-    align-self: stretch;
+    align-items: stretch;
+}
+.khoi-noi-dung .mau-cam{
+    align-items: stretch;
 }
 .cot-wrapper {
     display: flex;
@@ -35,12 +38,12 @@
     flex: 0 0 130px;    /* Chiều rộng cố định 130px, không co giãn */
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     padding: 20px 10px;
     border-radius: 8px; /* Bo góc */
     color: #fff;        /* Chữ màu trắng */
-    height: fit-content; /* Chiều cao vừa đủ nội dung */
+   
 }
 
 .so-lon h2 {
@@ -57,7 +60,11 @@
 }
 
 .danh-sach-muc {
-    flex-grow: 1; /* Chiếm hết phần không gian còn lại */
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
 }
 .mo-ta {
     margin-bottom: 30px;
@@ -67,11 +74,12 @@
 }
 .muc-con {
     padding: 12px 15px;
-    margin-bottom: 10px; /* Khoảng cách giữa các dòng */
+    margin-bottom: 0; /* Khoảng cách giữa các dòng */
     border-radius: 5px;
     font-size: 0.95rem;
     color: #272742;
     font-weight: bold;
+    display: flex;
 }
 
 .mau-xanh .so-lon {

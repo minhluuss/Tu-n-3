@@ -24,7 +24,7 @@
         </div>
 
         <!-- ROW -->
-        <div class="row align-items-stretch">
+        <div class="row align-items-stretch justify-content-center">
 
             <!-- CỘT TRÁI -->
             <div class="col-lg-5 col-md-12 d-flex">
