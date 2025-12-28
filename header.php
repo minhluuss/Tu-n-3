@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,12 +12,15 @@
     <link rel="stylesheet" href="css/footer.css">
 
 
-    <?php if (isset($ten_css)) { echo $ten_css; } ?>
+    <?php if (isset($ten_css)) {
+        echo $ten_css;
+    } ?>
 </head>
+
 <body>
     <div class="khung-banner-top">
-                <img src="images/banner1920x250.png" alt="">
-            </div>
+        <img src="images/banner1920x250.png" alt="">
+    </div>
     <header class="dau-trang">
 
         <!-- THANH TREN -->
@@ -59,9 +63,9 @@
                     <li><a href="home.php" class="home"><img src="images/Home.png" alt="home"></a></li>
                     <li><a href="Gioi_Thieu.php">Giới thiệu</a></li>
                     <li><a href="TinTuc.php">Tin tức</a></li>
-                    <li><a href="#">Dự án</a></li>
+                    <li><a href="duan.php">Dự án</a></li>
                     <li><a href="hoclieu.php">Học liệu</a></li>
-                    <li><a href="#"><strong class="noi-bat">E</strong>-magazine</a></li>
+                    <li><a href="Emagazine.php"><strong class="noi-bat">E</strong>-magazine</a></li>
                     <li><a href="#">Liên hệ</a></li>
                 </ul>
 

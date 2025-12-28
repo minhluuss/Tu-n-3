@@ -8,18 +8,22 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.4;
 }
+
 .khung-amd .khung-tren {
-    position: relative; /* Quan trọng: để các con bên trong định vị theo nó */
+    position: relative;
+    /* Quan trọng: để các con bên trong định vị theo nó */
     width: 100%;
     overflow: hidden;
     border-radius: 16px;
 }
+
 .khung-to img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
 }
+
 .lop-phu-noi-dung {
     position: absolute;
     bottom: 0;
@@ -28,10 +32,11 @@ body {
     padding: 20px;
     box-sizing: border-box;
     /* Tạo hiệu ứng mờ dần từ đen sang trong suốt để chữ trắng dễ đọc */
-    background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), transparent);
     color: #fff;
     z-index: 1;
 }
+
 .lop-phu-noi-dung .meta {
     font-size: 13px;
     margin-bottom: 8px;
@@ -41,11 +46,13 @@ body {
 .lop-phu-noi-dung .tag {
     font-weight: bold;
     margin-right: 10px;
-    color: #fff; /* Chữ Tin tức màu trắng */
+    color: #fff;
+    /* Chữ Tin tức màu trắng */
 }
 
 .lop-phu-noi-dung .tieu-de-trang {
-    font-size: 20px; /* Chữ to hơn vì là khung nổi bật */
+    font-size: 20px;
+    /* Chữ to hơn vì là khung nổi bật */
     font-weight: bold;
     margin: 0 0 10px 0;
     line-height: 1.3;
@@ -54,7 +61,8 @@ body {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.5); /* Đổ bóng chữ nhẹ */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    /* Đổ bóng chữ nhẹ */
 }
 
 .lop-phu-noi-dung .tuong-tac {
@@ -64,17 +72,21 @@ body {
 }
 
 .lop-phu-noi-dung .tuong-tac i.fa-heart {
-    color: #00aeff; /* Icon màu xanh hoặc trắng tùy bạn */
+    color: #00aeff;
+    /* Icon màu xanh hoặc trắng tùy bạn */
     margin-right: 5px;
 }
+
 .nut-play {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%); /* Căn chính giữa tâm */
+    transform: translate(-50%, -50%);
+    /* Căn chính giữa tâm */
     width: 60px;
     height: 60px;
-    background-color: rgba(0, 174, 255, 0.9); /* Màu xanh dương trong suốt */
+    background-color: rgba(0, 174, 255, 0.9);
+    /* Màu xanh dương trong suốt */
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -82,37 +94,49 @@ body {
     color: #fff;
     font-size: 24px;
     cursor: pointer;
-    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
     z-index: 2;
 }
+
 .phan-anh {
-    height: 50%; /* Chiếm 50% chiều cao khung */
+    height: 50%;
+    /* Chiếm 50% chiều cao khung */
     width: 100%;
     overflow: hidden;
     position: relative;
 }
+
 .phan-noi-dung {
-    height: 50%; /* Chiếm 50% chiều cao khung */
-    padding: 12px; /* Khoảng cách chữ so với viền */
+    height: 50%;
+    /* Chiếm 50% chiều cao khung */
+    padding: 12px;
+    /* Khoảng cách chữ so với viền */
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* Đẩy các thành phần dãn đều ra */
-    background-color: #efe2e4; /* Màu nền hồng nhạt giống mẫu */
+    justify-content: space-between;
+    /* Đẩy các thành phần dãn đều ra */
+    background-color: #efe2e4;
+    /* Màu nền hồng nhạt giống mẫu */
 }
+
 /* CSS trang trí cho chữ (tham khảo) */
 .meta {
     font-size: 12px;
     color: #666;
     margin-bottom: 5px;
 }
+
 .meta-chinh .tag .time {
-    color: white; /* Màu cam của chữ Nước sạch học đường */
+    color: white;
+    /* Màu cam của chữ Nước sạch học đường */
     font-weight: bold;
     margin-right: 5px;
 }
+
 .meta .tag {
-    color: #007bff; /* Màu xanh của chữ Tin tức */
+    color: #007bff;
+    /* Màu xanh của chữ Tin tức */
     font-weight: bold;
     margin-right: 5px;
 }
@@ -135,15 +159,18 @@ body {
     gap: 15px;
     font-size: 13px;
     color: #555;
-    margin-top: auto; /* Đẩy xuống đáy */
+    margin-top: auto;
+    /* Đẩy xuống đáy */
 }
+
 /* ===== KHUNG CHUNG ===== */
 .khung-chung {
     max-width: 1200px;
     margin: auto;
     padding-left: 16px;
-    padding-right: 16px; 
+    padding-right: 16px;
 }
+
 /*tin tức*/
 .tin-tuc {
     padding: 40px 0;
@@ -177,6 +204,7 @@ body {
     background: #ff8c1a;
     border-radius: 2px;
 }
+
 .nut-xem-them {
     padding: 6px 14px;
     font-size: 13px;
@@ -200,7 +228,7 @@ body {
 /* Slider */
 .khung-slider {
     position: relative;
-     display: flex;
+    display: flex;
     align-items: center;
     gap: 12px;
 }
@@ -259,8 +287,13 @@ body {
     transition: all 0.25s ease;
 }
 
-.nut-truoc { left: -22px; }
-.nut-sau   { right: -22px; }
+.nut-truoc {
+    left: -22px;
+}
+
+.nut-sau {
+    right: -22px;
+}
 
 
 /*Sức khỏe*/
@@ -272,30 +305,38 @@ body {
     max-width: 1250px;
     margin: auto;
 }
-.bn-suc-khoe{
+
+.bn-suc-khoe {
     margin: 10px 0 20px 0;
 }
+
 /*hỏi đáp cg*/
-.hoi-dap-chuyen-gia{
+.hoi-dap-chuyen-gia {
     padding: 40px 0;
 }
-.khung-bn-sk{
+
+.khung-bn-sk {
     width: 100%;
     border-radius: 20px;
     overflow: hidden;
     background: #f2f2f2;
     text-align: center;
 }
+
 .khung-bn-sk img {
     display: block;
-    margin: 0 auto; /* Tự động chia đều lề trái phải */
-    max-width: 100%; /* Đảm bảo ảnh không bị tràn ra ngoài nếu màn hình nhỏ */
+    margin: 0 auto;
+    /* Tự động chia đều lề trái phải */
+    max-width: 100%;
+    /* Đảm bảo ảnh không bị tràn ra ngoài nếu màn hình nhỏ */
 }
+
 /* dự án */
-.du-an{
+.du-an {
     background: #cfd8ff;
     padding: 20px 0 1px 0;
 }
+
 .tieu-de-tin-h {
     display: flex;
     align-items: center;
@@ -336,7 +377,7 @@ body {
     padding: 0;
     margin: 0;
 
-    flex: 1;             
+    flex: 1;
 }
 
 .tieu-de-tin-h ul li a {
@@ -369,31 +410,37 @@ body {
 .tieu-de-tin-h ul li a:hover::after {
     width: 100%;
 }
+
 /*học liệu*/
-.hoc-lieu{
+.hoc-lieu {
     padding: 50px 0 15px 0;
 }
+
 /*đơn vị đồng hành*/
-.don-vi-dh{
+.don-vi-dh {
     padding: 40px 0 60px;
 }
-.dv-logo{
+
+.dv-logo {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     gap: 20px;
     align-items: center;
 }
-.logo-item{
+
+.logo-item {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 .logo-item img {
     max-width: 100%;
     max-height: 60px;
     object-fit: contain;
     filter: grayscale(0);
 }
+
 /*ảnh md*/
 .khung-amd {
     padding: 20px 0;

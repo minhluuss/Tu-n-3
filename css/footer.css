@@ -9,23 +9,33 @@
     justify-content: center;
     overflow: hidden;
 }
+
 .duong-ke-giua {
-    position: absolute; /* Tách ra khỏi dòng chảy văn bản để trôi tự do */
-    bottom: 0;          /* Dính chặt xuống đáy */
+    position: absolute;
+    /* Tách ra khỏi dòng chảy văn bản để trôi tự do */
+    bottom: 0;
+    /* Dính chặt xuống đáy */
     left: 0;
     display: flex;
     justify-content: center;
-    width: 100%;        /* Trải dài hết chiều ngang màn hình */
-    z-index: 1;         /* Xếp ở lớp dưới cùng */
-    pointer-events: none; /* Chuột bấm xuyên qua được (để không che mất gì) */
+    width: 100%;
+    /* Trải dài hết chiều ngang màn hình */
+    z-index: 1;
+    /* Xếp ở lớp dưới cùng */
+    pointer-events: none;
+    /* Chuột bấm xuyên qua được (để không che mất gì) */
 }
 
 .duong-ke-giua img {
-    width: 100%;        /* Ảnh co giãn theo khung */
+    width: 100%;
+    /* Ảnh co giãn theo khung */
     height: auto;
-    display: block;     /* Xóa khoảng trắng thừa chân ảnh */
-    object-fit: cover;  /* Đảm bảo ảnh đẹp dù màn hình to hay nhỏ */
+    display: block;
+    /* Xóa khoảng trắng thừa chân ảnh */
+    object-fit: cover;
+    /* Đảm bảo ảnh đẹp dù màn hình to hay nhỏ */
 }
+
 .khung-noi-dung {
     position: relative;
     z-index: 2;
